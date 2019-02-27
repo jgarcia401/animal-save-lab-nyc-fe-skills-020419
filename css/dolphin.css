@@ -24,7 +24,7 @@ html {
   
   #dolphin{
     position: fixed;
-    top
+    top: -70px;
   }
   
 }
