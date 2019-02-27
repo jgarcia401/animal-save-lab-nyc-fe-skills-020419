@@ -11,4 +11,4 @@ html {
 /* Write your solution here */
 
 
-@media(min 10)
+@media(max-width:10)
